@@ -29,5 +29,5 @@ int pembagian(int bil_1, int bil_2) {
 
 int main()
 {
-    
+    int pilihan;
 }

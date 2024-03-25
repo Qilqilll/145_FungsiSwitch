@@ -7,11 +7,12 @@ void input()
     cout << "Bilangan Pertama = ";
     cin >> a;
 
-    cout << "Bilangan Kedua = "
+    cout << "Bilangan Kedua = ";
+        cin >> b;
 
 }
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
